@@ -1,0 +1,56 @@
+﻿@model MagazinBijuteri.Models.CosCumparaturi
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2 style="color: white">Stergere</h2>
+
+<h3 style="color: white">Sunteti sigur/a ca doriti sa stergeti produsul din cos?</h3>
+<div>
+    <h4 style="color: white">Cos Cumparaturi</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Descriere)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descriere)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Denumire)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Denumire)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cantitate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cantitate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pret)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pret)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Sterge" class="btn btn-default" /> |
+            @Html.ActionLink("Inapoi la lista", "Index")
+        </div>
+    }
+</div>

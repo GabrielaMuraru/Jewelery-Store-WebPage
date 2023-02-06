@@ -1,0 +1,49 @@
+﻿@model MagazinDeBijuteriiPROIECTFINAL.Models.ProdusModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="color: white">Detalii</h2>
+
+<div>
+    <h4 style="color: white">Produs</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Denumire)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Denumire)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descriere)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descriere)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cantitate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cantitate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pret)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pret)
+        </dd>
+
+    </dl>
+</div>
+<p>  
+    @Html.ActionLink("Inapoi la lista", "Index", new { @style = "color: white" })
+</p>

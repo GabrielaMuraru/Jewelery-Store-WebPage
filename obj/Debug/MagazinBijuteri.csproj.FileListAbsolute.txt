@@ -1,0 +1,255 @@
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\MagazinBijuteri.dll.config
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\MagazinBijuteri.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\MagazinBijuteri.pdb
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csc.exe
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csc.exe.config
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csc.rsp
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csi.exe
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csi.exe.config
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csi.rsp
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.AppContext.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Collections.Immutable.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Console.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Globalization.Calendars.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.Compression.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.FileSystem.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Net.Http.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Net.Sockets.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Reflection.Metadata.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.ValueTuple.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.XPath.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\vbc.exe
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\vbc.exe.config
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\vbc.rsp
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\VBCSCompiler.exe
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\roslyn\VBCSCompiler.exe.config
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\Antlr3.Runtime.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.SqlServer.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\Microsoft.Web.Infrastructure.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\Newtonsoft.Json.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Helpers.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Mvc.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Optimization.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Razor.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Deployment.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Razor.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\WebGrease.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.SqlServer.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Helpers.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Mvc.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Optimization.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Razor.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Deployment.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Razor.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\Newtonsoft.Json.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\Antlr3.Runtime.pdb
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.csproj.AssemblyReference.cache
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.csproj.CopyComplete
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.dll
+D:\Facultate\Anul II\Medii si instrumente de programare\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.pdb
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\MagazinBijuteri.dll.config
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\MagazinBijuteri.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\MagazinBijuteri.pdb
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csc.exe
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csc.exe.config
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csc.rsp
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csi.exe
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csi.exe.config
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csi.rsp
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.AppContext.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Console.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.Compression.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Net.Http.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Net.Sockets.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.ValueTuple.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.XPath.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\vbc.exe
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\vbc.exe.config
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\vbc.rsp
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\VBCSCompiler.exe
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\Antlr3.Runtime.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.SqlServer.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\Newtonsoft.Json.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Helpers.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Mvc.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Optimization.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Razor.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Deployment.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Razor.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\WebGrease.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.SqlServer.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Helpers.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Mvc.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Optimization.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Razor.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Deployment.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Razor.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\Newtonsoft.Json.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\Antlr3.Runtime.pdb
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.csproj.AssemblyReference.cache
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.csproj.CoreCompileInputs.cache
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.csproj.CopyComplete
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.pdb
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\MagazinBijuteri.dll.config
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\MagazinBijuteri.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\MagazinBijuteri.pdb
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csc.exe
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csc.exe.config
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csc.rsp
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csi.exe
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csi.exe.config
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\csi.rsp
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.AppContext.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Collections.Immutable.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Console.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Globalization.Calendars.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.Compression.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.FileSystem.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Net.Http.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Net.Sockets.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Reflection.Metadata.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.ValueTuple.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.XPath.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\vbc.exe
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\vbc.exe.config
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\vbc.rsp
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\VBCSCompiler.exe
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\roslyn\VBCSCompiler.exe.config
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\Antlr3.Runtime.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.SqlServer.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\Microsoft.Web.Infrastructure.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\Newtonsoft.Json.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Helpers.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Mvc.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Optimization.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Razor.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Deployment.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Razor.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\WebGrease.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\EntityFramework.SqlServer.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Helpers.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Mvc.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Optimization.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.Razor.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Deployment.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\System.Web.WebPages.Razor.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\Newtonsoft.Json.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\Antlr3.Runtime.pdb
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.csproj.AssemblyReference.cache
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.csproj.CoreCompileInputs.cache
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.csproj.CopyComplete
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\obj\Debug\MagazinBijuteri.pdb
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\Languages.dll
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\Languages.pdb
+D:\MagazinBijuterii_2\MagazinBijuteri\MagazinBijuteri\bin\ro\Languages.resources.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\Languages.dll
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\Languages.pdb
+C:\Users\viore\OneDrive\Pictures\MagazinBijuteri\MagazinBijuteri\bin\ro\Languages.resources.dll

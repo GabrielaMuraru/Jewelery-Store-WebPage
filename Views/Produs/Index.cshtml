@@ -1,0 +1,45 @@
+﻿@model IEnumerable<MagazinDeBijuteriiPROIECTFINAL.Models.ProdusModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="color:white">Index</h2>
+
+<p style="color:white">
+    @Html.ActionLink("Create New", "Create", new { @style = "color: white" })
+</p>
+<table class="table">
+    <tr style="color: white">
+        <th style="color: white">
+            @Html.DisplayNameFor(model => model.Denumire)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Descriere)
+        </th>*@
+        <th style="color: white">
+            @Html.DisplayNameFor(model => model.Pret)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr style="color: white">
+        <td style="color: white">
+            @Html.DisplayFor(modelItem => item.Denumire)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Descriere)
+        </td>*@
+        <td style="color: white">
+            @Html.DisplayFor(modelItem => item.Pret)
+        </td>
+        <td style="color: white">
+            @Html.ActionLink("Detalii", "Details", new { id = item.ProdusId }, new { @style = "color: white" }) |
+            @Html.ActionLink("Adauga in cos", "AddToCart", new { id = item.ProdusId }, new { @style = "color: white" })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,39 @@
+﻿@model MagazinDeBijuteriiPROIECTFINAL.Models.ProdusModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="color: white">Adaugare in cos</h2>
+
+<h3 style="color: white">Adaugati produsul in cos?</h3>
+<div>
+    <h4 style="color: white">Produs</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Denumire)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Denumire)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descriere)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descriere)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Adauga" class="btn btn-default" /> |
+            @Html.ActionLink("Inapoi la lista", "Index", new { @style = "color: white" })
+        </div>
+    }
+</div>
