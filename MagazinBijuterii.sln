@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagazinBijuterii", "MagazinBijuteri\MagazinBijuterii.csproj", "{4D05805D-A387-4E6B-89EC-5BE298D322DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Languages", "Languages\Languages.csproj", "{693C30EB-471D-4A7A-9AE7-B346E1AB53C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D05805D-A387-4E6B-89EC-5BE298D322DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D05805D-A387-4E6B-89EC-5BE298D322DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D05805D-A387-4E6B-89EC-5BE298D322DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D05805D-A387-4E6B-89EC-5BE298D322DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693C30EB-471D-4A7A-9AE7-B346E1AB53C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693C30EB-471D-4A7A-9AE7-B346E1AB53C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693C30EB-471D-4A7A-9AE7-B346E1AB53C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693C30EB-471D-4A7A-9AE7-B346E1AB53C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EEE2781-16E8-49AF-BE5A-2E13FFBC3F04}
+	EndGlobalSection
+EndGlobal
